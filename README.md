@@ -47,9 +47,7 @@ Zadanie - zbadaj z ilu kolumn pobierane są dane w zapytaniu.
 ## Lab05
 
 Zadanie - sprawdź wersję i typ bazy danych.
-> [Link](https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft)
-
-**Uwaga** - musisz być zalogowany na PortSwigger.
+> [Link](https://web.ctflearn.com/web4/)
 
 <br/><br/>
 
