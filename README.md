@@ -42,6 +42,14 @@ Zadanie - zbadaj z ilu kolumn pobierane są dane w zapytaniu.
 
 <br/><br/>
 
+## Lab04.1
+
+Zadanie - zbadaj z ilu kolumn pobierane są dane w zapytaniu.
+> [Link](https://portswigger.net/web-security/sql-injection/union-attacks/lab-find-column-containing-text)
+
+**Uwaga** - musisz być zalogowany na PortSwigger.
+
+<br/><br/>
 
 
 ## Lab05
