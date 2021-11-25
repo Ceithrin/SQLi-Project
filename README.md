@@ -77,5 +77,10 @@ Zadanie - korzystając ze zdobytej dotychczas wiedzy znajdź flagę w bazie dany
 
 > [Link](https://web.ctflearn.com/web8)
 
+## Linki do artykułów
 
+> [What led to the TalkTalk data breach that’s estimated to have cost around £30 million in damages?](https://cyberstart.com/blog/how-an-outdated-database-led-to-a-data-breach-unpicking-the-talktalk-cyber-attack/)
 
+> [WordPress security: More than 600,000 sites hit by blind SQLi vulnerability in WP Statistics plugin](https://portswigger.net/daily-swig/wordpress-security-more-than-600-000-sites-hit-by-blind-sqli-vulnerability-in-wp-statistics-plugin)
+
+> [https://portswigger.net/daily-swig/wordpress-security-plugin-hide-my-wp-addresses-sql-injection-deactivation-flaws](https://portswigger.net/daily-swig/wordpress-security-plugin-hide-my-wp-addresses-sql-injection-deactivation-flaws)
